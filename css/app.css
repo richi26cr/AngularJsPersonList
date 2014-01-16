@@ -1,0 +1,35 @@
+/* app css stylesheet */
+
+body {
+  padding-top: 20px;
+}
+
+h1 {
+  border-bottom: 1px solid #BBBBBB;
+}
+
+.person-pic {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    padding-left: 20px;
+}
+
+.person-info{
+    padding-left: 120px;
+    width: 300px;
+}
+
+.persons {
+    list-style: none;
+}
+
+.persons li {
+    clear: both;
+    height: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
